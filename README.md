@@ -1,5 +1,5 @@
 # *Code for:* Inferring single-cell heterogeneity of bacteriophage life-history traits from population-scale dynamics
-*By Marian Dominguez-Mirazo, 2025*
+*By Marian Dominguez-Mirazo, 2026*
 
 ## General Description
 
